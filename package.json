@@ -11,6 +11,9 @@
     "url": "git+https://github.com/BinhLe001/AutoCapt.git"
   },
   "keywords": [],
+  "engines": {
+    "node": ">=4.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
